@@ -11,7 +11,7 @@ The goal is to demonstrate **architecture, data flow, and drift detection logic*
 
 ---
 
-## High-Level Architecture
+## Architecture
 
 ```
 Kafka Producers
